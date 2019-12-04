@@ -2,7 +2,7 @@
     animation: blink_anim 0.53s step-start infinite;
 }
 
-.slowBlink {
+.blink_s {
     animation: blink_anim 1.06s step-start infinite;
 }
 
@@ -10,7 +10,7 @@
     50% { opacity: 0; }
 }
 
-.tvBox {
+.box {
   font-family: 'ibm', monospace;
   color: #ffff55;
   background-color: #5555ff;
